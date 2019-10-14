@@ -1,0 +1,29 @@
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\Circumference.ImportAndExport.Test.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\Circumference.ImportAndExport.Test.pdb
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.assert.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.core.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.assert.xml
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.core.xml
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\obj\Debug\Circumference.ImportAndExport.Test.dll
+C:\Users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Test\obj\Debug\Circumference.ImportAndExport.Test.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.runner.utility.net452.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.abstractions.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\Circumference.ImportAndExport.Test.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\Circumference.ImportAndExport.Test.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.assert.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.core.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.execution.desktop.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.assert.xml
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.core.xml
+D:\Circumference.IE\Circumference.ImportAndExport.Test\bin\Debug\xunit.execution.desktop.xml
+D:\Circumference.IE\Circumference.ImportAndExport.Test\obj\Debug\Circumference.ImportAndExport.Test.csprojResolveAssemblyReference.cache
+D:\Circumference.IE\Circumference.ImportAndExport.Test\obj\Debug\Circumference.ImportAndExport.Test.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Test\obj\Debug\Circumference.ImportAndExport.Test.pdb

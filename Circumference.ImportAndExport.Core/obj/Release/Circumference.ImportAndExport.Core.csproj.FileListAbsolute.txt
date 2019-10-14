@@ -1,0 +1,5 @@
+D:\Circumference.IE\Circumference.ImportAndExport.Core\bin\Release\Circumference.ImportAndExport.Core.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Core\bin\Release\Circumference.ImportAndExport.Core.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Core\obj\Release\Circumference.ImportAndExport.Core.csprojResolveAssemblyReference.cache
+D:\Circumference.IE\Circumference.ImportAndExport.Core\obj\Release\Circumference.ImportAndExport.Core.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Core\obj\Release\Circumference.ImportAndExport.Core.pdb

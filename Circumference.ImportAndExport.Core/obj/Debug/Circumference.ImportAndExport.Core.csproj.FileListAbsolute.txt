@@ -1,0 +1,10 @@
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Core\bin\Debug\Circumference.ImportAndExport.Core.dll
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Core\bin\Debug\Circumference.ImportAndExport.Core.pdb
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Core\obj\Debug\Circumference.ImportAndExport.Core.csprojResolveAssemblyReference.cache
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Core\obj\Debug\Circumference.ImportAndExport.Core.dll
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Core\obj\Debug\Circumference.ImportAndExport.Core.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Core\bin\Debug\Circumference.ImportAndExport.Core.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Core\bin\Debug\Circumference.ImportAndExport.Core.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Core\obj\Debug\Circumference.ImportAndExport.Core.csprojResolveAssemblyReference.cache
+D:\Circumference.IE\Circumference.ImportAndExport.Core\obj\Debug\Circumference.ImportAndExport.Core.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Core\obj\Debug\Circumference.ImportAndExport.Core.pdb

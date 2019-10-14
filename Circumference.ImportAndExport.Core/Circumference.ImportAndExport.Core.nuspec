@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/Sopcce/.Net-Common-Utility/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Sopcce/.Net-Common-Utility</projectUrl>
+    <iconUrl>https://github.com/Sopcce/.Net-Common-Utility/blob/master/it.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>first release.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>excel</tags>
+  </metadata>
+</package>

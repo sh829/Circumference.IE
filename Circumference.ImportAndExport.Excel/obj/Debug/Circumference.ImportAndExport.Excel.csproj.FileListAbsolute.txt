@@ -1,0 +1,18 @@
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Excel.dll
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Excel.pdb
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Core.dll
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\EPPlus.dll
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Core.pdb
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\EPPlus.xml
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Debug\Circumference.ImportAndExport.Excel.csprojResolveAssemblyReference.cache
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Debug\Circumference.ImportAndExport.Excel.dll
+c:\users\wangchao\documents\visual studio 2015\Projects\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Debug\Circumference.ImportAndExport.Excel.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Excel.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Excel.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Core.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\EPPlus.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\Circumference.ImportAndExport.Core.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Debug\EPPlus.xml
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Debug\Circumference.ImportAndExport.Excel.csprojResolveAssemblyReference.cache
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Debug\Circumference.ImportAndExport.Excel.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Debug\Circumference.ImportAndExport.Excel.pdb

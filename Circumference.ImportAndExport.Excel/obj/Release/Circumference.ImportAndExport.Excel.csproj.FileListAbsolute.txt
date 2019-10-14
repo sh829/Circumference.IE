@@ -1,0 +1,9 @@
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Release\Circumference.ImportAndExport.Excel.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Release\Circumference.ImportAndExport.Excel.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Release\Circumference.ImportAndExport.Core.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Release\EPPlus.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Release\Circumference.ImportAndExport.Core.pdb
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\bin\Release\EPPlus.xml
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Release\Circumference.ImportAndExport.Excel.csprojResolveAssemblyReference.cache
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Release\Circumference.ImportAndExport.Excel.dll
+D:\Circumference.IE\Circumference.ImportAndExport.Excel\obj\Release\Circumference.ImportAndExport.Excel.pdb

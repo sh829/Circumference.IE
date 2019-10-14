@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="row">
+    <form action='@Url.Action("Upload", "Account")' method="post" enctype="multipart/form-data">
+        <input type="file" name="file" /><br />
+        <input type="submit" value="提交" />
+    </form>
+    <a href='@Url.Action("Download", "Account", new { fileName = "清单模板.xlsx" })'>下载文件</a>
+</div>
